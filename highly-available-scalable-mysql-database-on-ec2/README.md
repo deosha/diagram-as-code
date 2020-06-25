@@ -15,4 +15,6 @@ python diagram.py
 
 You will see architecture.png in your current working directory
 
+# Ignore the warning. They won't effect the way labels are marked  
+
 ![Architecture](architecture.png) 
