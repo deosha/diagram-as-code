@@ -9,4 +9,5 @@ on Windows: choco install graphviz
 pip install diagrams  
 
 ## How to execute
-[simple-three-tier-ecs-with-redis](simple-three-tier-ecs-with-redis) 
+[Simple Three Tier ECS With Redis](simple-three-tier-ecs-with-redis)
+[Highly Available and Scalable Mysql Database On EC2](highly-available-scalable-mysql-database-on-ec2) 
