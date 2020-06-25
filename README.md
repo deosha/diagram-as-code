@@ -10,4 +10,5 @@ pip install diagrams
 
 ## How to execute
 [Simple Three Tier ECS With Redis](simple-three-tier-ecs-with-redis)  
-[Highly Available and Scalable Mysql Database On EC2](highly-available-scalable-mysql-database-on-ec2) 
+[Highly Available and Scalable Mysql Database On EC2](highly-available-scalable-mysql-database-on-ec2)
+[Highly Available, Scalable and Secure Frontend Backend Database](highly-available-scalable-frontend-backend-database) 
